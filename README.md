@@ -13,7 +13,7 @@ Biology, Computer Engineering
 ✨ 현재 Unity와 Spring 공부는 중 입니다.🌱
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0226&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jiwon0226=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jiwon0226/jiwon0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
