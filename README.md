@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>채지원</h1>
 <h3>Likes💘</h3>
-Data, AI, Backend
+Data, AI, Frontend, Backend
 <h3>Major🏫</h3>
 Biology, Computer Engineering
 <h3>2001.02.26</h3>
@@ -9,8 +9,11 @@ Biology, Computer Engineering
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-F8DC75?style=flat-square&logo=Notion&logoColor=000000"/></a>
 <a href="https://github.com/jiwon0226" target="_blank"><img src="https://img.shields.io/badge/GitHub-E9ECEF?style=flat-square&logo=GitHub&logoColor=000000"/></a>
 <hr>
-✨ HTML, CSS, C, C#, Unity, Python 기초, Django 기초, Java, Spring 기초, SQL 기본<br>
-✨ 현재 Unity와 Spring 공부는 중 입니다.🌱
+🔭 I’m currently learning ... <br>
+✨ HTML, CSS, Javascript, <br>
+✨ C, C#, Unity, Python 기초, Java, SQL 기본 <br>
+✨ Django 기초, Spring 기초, React 기초 <br>
+✨ 현재 React와 Spring 공부는 중 입니다.🌱 <br>
 <br>
 <br>
 
