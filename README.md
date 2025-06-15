@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>채지원</h1>
 <h3>Likes💘</h3>
-Data, AI, Frontend, Backend
+Frontend, Backend
 <h3>Major🏫</h3>
 Biology, Computer Engineering
 <h3>2001.02.26</h3>
@@ -10,10 +10,10 @@ Biology, Computer Engineering
 <a href="https://github.com/jiwon0226" target="_blank"><img src="https://img.shields.io/badge/GitHub-E9ECEF?style=flat-square&logo=GitHub&logoColor=000000"/></a>
 <hr>
 🔭 I’m currently learning ... <br>
-✨ HTML, CSS, Javascript, <br>
-✨ C, C#, Unity, Python 기초, Java, SQL 기본 <br>
-✨ Django 기초, Spring 기초, React 기초 <br>
-✨ 현재 React와 Spring 공부는 중 입니다.🌱 <br>
+✨ HTML, CSS, Javascript, Typescript<br>
+✨ Java <br>
+✨ React, React Native, Spring<br>
+✨ 현재 Spring은 공부 중 입니다.🌱 <br>
 <br>
 <br>
 
