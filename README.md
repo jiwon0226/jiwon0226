@@ -11,8 +11,7 @@
 <a href="mailto:ppg0226@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://congruous-bite-692.notion.site/21bb8a544cba8046a55dc90b3d5a1d55?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion-2E7D32?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/jiwon0226" target="_blank"><img src="https://img.shields.io/badge/GitHub-1B5E20?style=flat-square&logo=github&logoColor=white"/></a>
-
-</div>
+<a href="https://jiwon0226.github.io/ThanksToMentoo/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-43A047?style=flat-square&logoColor=white"/></a>
 
 <br/>
 
@@ -67,58 +66,61 @@
 
 ## 🚀 Projects
 
-### F!NT - 멀티테넌트 B2B Sales CRM
-> `SSAFY 팀 프로젝트` · `2026.04 - 05` · `6인` <br/>
+### F!NT - 멀티테넌트 B2B Sales CRM 
+> `SSAFY 팀 프로젝트` · `2026.04 - 05` · `6인` · [`🔗 GitHub`](https://github.com/jiwon0226/FINT) <br/>
 `Spring Boot` `JPA` `PostgreSQL` `Next.js`
 - Account·Dashboard 도메인 백엔드 전담, 엔티티 19개 토대 설계
 - 권한 조건을 단일 JPQL로 통합, 권한 위반은 항상 404 처리
 - account-user 관계 1:1 → N:M 스키마 전면 재설계
 
+
 ### 아마Get돈 - 모의투자 + 금융 학습 플랫폼
->`SSAFY 팀 프로젝트` · `2026.01 - 02` · `6인` <br/>
+>`SSAFY 팀 프로젝트` · `2026.01 - 02` · `6인` · [`🔗 GitHub`](https://github.com/jiwon0226/amagetdon) <br/>
 `Spring Boot` `JPA` `MySQL` `Redis` `React`
 - N+1 쿼리를 100회 → 2회로 개선 (Bulk Fetch + Memory Mapping)
 - 장 마감 폴링 자동 중단으로 일일 외부 API 호출 60%↓
 - 복합키 설계, 데이터 성격에 따라 Redis/RDB 저장소 분리
 
-### 버블팝업 - 뉴스 데이터가 게임에 반영되는 경영 시뮬레이션 🥈
->`SSAFY 팀 프로젝트` · `2026.02 - 03` · `6인` <br/>
+### 버블팝업 - 뉴스 데이터가 게임에 반영되는 경영 시뮬레이션 🏆
+>`SSAFY 팀 프로젝트` · `2026.02 - 03` · `6인` · [`🔗 GitHub`](https://github.com/jiwon0226/Bubble-Pop-Up) <br/>
 `Spring Boot` `Redis` `Spark` `Hadoop(HDFS)`
 - 빅데이터 분산 도메인 프로젝트 우수상
 - 서버 권한형 온디맨드 계산 구조를 제안·설계해 팀 채택
 - 동기화·위변조 문제를 스냅샷 기반 재계산 구조로 해결
 
 ### KEYWE - DID 기반 병원 통합 모바일 출입증 🏆
->`LG CNS AM Inspire Camp 팀 프로젝트` · `2025.04 - 06` · `8인` <br/>
+>`LG CNS AM Inspire Camp 팀 프로젝트` · `2025.04 - 06` · `8인` · [`🔗 Team`](https://github.com/TeamDoubleO) · [`🔗 Frontend`](https://github.com/jiwon0226/FE-Mobile-RN) <br/>
 `React Native(Bare)` `JavaScript` `Zustand`
 - LG CNS Inspire Camp 최종 대상(1위)
 - DID 라이브러리 적용 위해 Bare RN 마이그레이션 주도
 - 실사용 기반 트러블슈팅 다수 해결
 
 ### EatIt - 식단 + CS 학습 게이미피케이션
->`SSAFY 페어 프로젝트` · `2025.12` · `2인` <br/>
+>`SSAFY 페어 프로젝트` · `2025.12` · `2인` · [`🔗 GitHub`](https://github.com/jiwon0226/Eat-IT) <br/>
 `Spring Boot` `MyBatis` `Vue` `TypeScript`
 - 프론트엔드 주도, AWS 단독 배포(EC2·Nginx·HTTPS)
 - HTTPS 세션 쿠키 트러블슈팅 해결
 
+### 취업레고 - 클라우드 기반 AI 채용정보 분석 서비스
+>`LG CNS AM Inspire Camp 팀 프로젝트` · `2025.03 - 04` · `4인` · [`🔗 Backend`](https://github.com/CHEERUP-LEGO/Backend) · [`🔗 Frontend`](https://github.com/CHEERUP-LEGO/Frontend) <br/>
+`AWS S3·IAM` `Spring Cloud Gateway` `Docker` `ECS/ECR`
+- '취업봇다리'를 MSA + AWS 클라우드 환경으로 확장
+- 이미지 저장을 로컬 → S3 기반으로 전환, Presigned URL 적용
+- IAM 권한·Content-Type·URL 만료 등 트러블슈팅, 전체 아키텍처 문서화
+
 ### 취업봇다리 - AI 채용정보 분석 서비스
->`LG CNS AM Inspire Camp 팀 프로젝트` · `2025.02` · `5인` <br/>
+>`LG CNS AM Inspire Camp 팀 프로젝트` · `2025.02` · `5인` · [`🔗 GitHub`](https://github.com/jiwon0226/JobBridge-FE)  <br/>
 `Spring Cloud(MSA)` `Docker` `GitHub Actions`
-- Spring Cloud(Config·Eureka·Gateway) 기반 MSA 설계
-- Gateway CORS·컨테이너 실행순서 트러블슈팅
+- 프론트엔드 총괄, 화면 설계 및 구현
+- 서비스 구조 설계 공동 참여
 
 <br/>
 
-## 📊 Algorithm & Stats
+## 📊 Algorithm
 
 <div align="center">
 
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0226)](https://solved.ac/jiwon0226)
-
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jiwon0226&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2E7D32&icon_color=43A047&text_color=4CAF50&bg_color=ffffff" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon0226&layout=compact&hide_border=true&title_color=2E7D32&text_color=4CAF50&bg_color=ffffff" />
 
 </div>
 
