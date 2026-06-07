@@ -13,6 +13,7 @@
 <a href="https://github.com/jiwon0226" target="_blank"><img src="https://img.shields.io/badge/GitHub-1B5E20?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://jiwon0226.github.io/ThanksToMentoo/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-43A047?style=flat-square&logoColor=white"/></a>
 
+</div>
 <br/>
 
 ## 🍀 About Me
