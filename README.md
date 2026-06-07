@@ -102,7 +102,7 @@
 - HTTPS 세션 쿠키 트러블슈팅 해결
 
 ### 취업봇다리 - AI 채용정보 분석 서비스
->`KSEB 3기 팀 프로젝트` · `2025.02` · `5인` <br/>
+>`LG CNS AM Inspire Camp 팀 프로젝트` · `2025.02` · `5인` <br/>
 `Spring Cloud(MSA)` `Docker` `GitHub Actions`
 - Spring Cloud(Config·Eureka·Gateway) 기반 MSA 설계
 - Gateway CORS·컨테이너 실행순서 트러블슈팅
